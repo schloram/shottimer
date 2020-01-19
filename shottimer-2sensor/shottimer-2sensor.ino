@@ -121,7 +121,7 @@ bool timerRUN = 0;
 bool sleeptimerRUN = 0;
 bool sleep = 1;
 bool hold = 1;
-char* version[] = {"Espresso", "Shot Timer", "v1.006.045"};
+char* version[] = {"Espresso", "Shot Timer", "v1.006.145"};
 long previous;
 long onTIME;
 

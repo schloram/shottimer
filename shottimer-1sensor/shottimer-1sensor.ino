@@ -64,6 +64,10 @@ Display lcd;
 const int btnPUMPpin = 7;
 const int btnSTARTpin = 5;
 
+// buttons
+const byte BTN1 = 2; //  Setup
+const byte BTN2 = 3; // minus
+
 // define pin => connect to IRLIZ44N (GATE) with PWM
 int baristaLightPWM = 6;
 
